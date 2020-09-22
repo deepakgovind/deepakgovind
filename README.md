@@ -2,7 +2,7 @@
 <h3 align="center">Engineering student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakgovind" alt="deepakgovind" /> </p>
-<img src"https://magiccopy.xyz/assets/images/hadder.gif" height="400" width="600" />
+<img src"https://d33wubrfki0l68.cloudfront.net/3098b6101cffe841bb065093da490c818d5a865b/f9f33/images/about_us_img.gif" height="400" width="600" align="center">
 
 - 🔭 I’m currently working on **JavaScript**
 
