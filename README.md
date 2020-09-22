@@ -2,7 +2,7 @@
 <h3 align="center">Engineering student / Frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakgovind" alt="deepakgovind" /> </p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://d33wubrfki0l68.cloudfront.net/3098b6101cffe841bb065093da490c818d5a865b/f9f33/images/about_us_img.gif" height="400" width="600" align="center">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.dribbble.com/users/1090020/screenshots/3901343/________-5.gif" height="400" width="600" align="center">
 
 - 🔭 I’m currently working on **JavaScript**
 
