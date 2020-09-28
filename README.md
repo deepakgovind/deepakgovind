@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak</h1>
 <h3 align="center">Engineering student / Frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakgovind" alt="deepakgovind" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=deepakgovind" alt="deepakgovind" /> </p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.dribbble.com/users/1090020/screenshots/3901343/________-5.gif" height="400" width="600" align="center">
 
 - 🔭 I’m currently working on **JavaScript**
