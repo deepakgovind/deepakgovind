@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Deepak</h1>
 <h3 align="center">Engineering student / Frontend developer</h3>
+<a href="https://linkedin.com/in/deepak-g-1171b0197" target="blank" ><img align="center" alt="Deepak | LinkedIn" width="30px" height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Linkedin.svg" style="max-width:100%;"></a>&nbsp;
+<a href="https://instagram.com/will_minded" target="blank" ><img align="center" alt="Deepak | Instagram" width="30px" height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Instagram.svg" style="max-width:100%;"></a>&nbsp;
+ <a href="https://twitter.com/DeepakG93881990" target="blank" ><img align="center" alt="Deepak | Twitter" width="30px" height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Twitter.svg" style="max-width:100%;"></a>&nbsp;
+ <a href="https://fb.com/hari.gd.52" target="blank" ><img align="center" alt="Deepak | Facebook" width="30px" height="30" src="https://www.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-facebook-2019-circle-512.png" style="max-width:100%;"></a>&nbsp;
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakgovind" alt="deepakgovind" /> </p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.dribbble.com/users/1090020/screenshots/3901343/________-5.gif" height="400" width="600" align="center">
@@ -16,8 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakgovind&show_icons=true" alt="deepakgovind" /></p>
 
-<p align="center">
-<a href="https://linkedin.com/in/deepak-g-1171b0197" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deepak-g-1171b0197" height="30" width="30" /></a>
-<a href="https://fb.com/hari.gd.52" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hari.gd.52" height="30" width="30" /></a>
-<a href="https://instagram.com/will_minded" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="will_minded" height="30" width="30" /></a>
-</p>
+
