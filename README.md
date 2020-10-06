@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepak</h1>
 <h3 align="center">Engineering student / Frontend developer</h3>
-<p align="center"><a href="https://linkedin.com/in/deepak-g-1171b0197" target="blank" ><img align="center" alt="Deepak | LinkedIn" width="30px" height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Linkedin.svg" style="max-width:100%;"></a>&nbsp;
+<p align="center"><a href="https://linkedin.com/in/deepak-g-1171b0197" target="_blank" ><img align="center" alt="Deepak | LinkedIn" width="30px" height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Linkedin.svg" style="max-width:100%;"></a>&nbsp;
 <a href="https://instagram.com/will_minded" target="blank" ><img align="center" alt="Deepak | Instagram" width="30px" height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Instagram.svg" style="max-width:100%;"></a>&nbsp;
  <a href="https://twitter.com/DeepakG93881990" target="blank" ><img align="center" alt="Deepak | Twitter" width="30px" height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Twitter.svg" style="max-width:100%;"></a>&nbsp;
  <a href="https://fb.com/hari.gd.52" target="blank" ><img align="center" alt="Deepak | Facebook" width="30px" height="30" src="https://www.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-facebook-2019-circle-512.png" style="max-width:100%;"></a>&nbsp;</p>
